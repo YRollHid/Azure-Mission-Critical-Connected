@@ -25,4 +25,4 @@ variables:
 - name: 'envDnsZoneRG'
   value: 'yrhe2e-dnszones-rg'                         # <===== CHANGE THIS VALUE
 - name: 'envDomainName'
-  value: 'e2e.connected.mission-critical.app'     # <===== CHANGE THIS VALUE
+  value: 'yrhe2e.app'     # <===== CHANGE THIS VALUE
