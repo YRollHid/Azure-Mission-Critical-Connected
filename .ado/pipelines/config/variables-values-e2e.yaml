@@ -13,7 +13,7 @@ variables:
 
 # Terraform state variables
 - name:  'terraformResourceGroup'
-  value: 'yrhconnected-terraformstate-rg'      # <===== CHANGE THIS VALUE IF NEEDED
+  value: 'yrhe2e-terraformstate-rg'      # <===== CHANGE THIS VALUE IF NEEDED
 - name:  'terraformStorageAccount'
   value: '$(prefix)tfstatestore'              # <===== CHANGE THIS VALUE! Needs to be a globally unique name
 
