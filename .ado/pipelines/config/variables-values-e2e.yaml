@@ -15,7 +15,7 @@ variables:
 - name:  'terraformResourceGroup'
   value: 'pwce2e-terraformstate-rg'      # <===== CHANGE THIS VALUE IF NEEDED
 - name:  'terraformStorageAccount'
-  value: '$(prefix)tfstatestore'              # <===== CHANGE THIS VALUE! Needs to be a globally unique name
+  value: '$(prefix)tfstatestore00'              # <===== CHANGE THIS VALUE! Needs to be a globally unique name
 
 # Other settings
 - name:  'contactEmail'
