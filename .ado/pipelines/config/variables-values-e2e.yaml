@@ -23,6 +23,6 @@ variables:
 
   # Custom DNS name settings
 - name: 'envDnsZoneRG'
-  value: 'yrhe2e-dnszones-rg'                         # <===== CHANGE THIS VALUE
+  value: 'pwce2e-dnszones-rg'                         # <===== CHANGE THIS VALUE
 - name: 'envDomainName'
-  value: 'yrhe2e.app'     # <===== CHANGE THIS VALUE
+  value: 'pwce2e.app'     # <===== CHANGE THIS VALUE
